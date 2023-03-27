@@ -1,0 +1,35 @@
+.header{
+  text-align: center;
+}
+.vehicle{
+  border-radius: 5px;
+}
+
+#data {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: rgb(3, 3, 53);
+  color: rgb(18, 174, 26);
+}
+
+.itemname,
+.itemtype,
+.itemcountry {
+  background-color: rgb(142, 237, 133);
+  color: black;
+}
+table,
+td,
+th {
+  border: 2px solid black;
+  border-radius: 2px;
+}
+
+.selecttype {
+  margin-left: 950px;
+  font-weight: bold;
+}
+
+.search{
+  font-weight: bold;
+}

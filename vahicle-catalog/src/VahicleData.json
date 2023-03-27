@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Honda",
+        "country":"India",
+        "type":"Passenger Car"
+
+    },
+    {
+        "id":2,
+        "name":"BMW",
+        "country":"UNITEDKingdom(UK)",
+        "type":"luxrious Car"
+
+    },
+    {
+        "id":3,
+        "name":"Maruti",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Passenger Car"
+
+    },
+
+    {
+        "id":4,
+        "name":"Tata",
+        "country":"India",
+        "type":"Bus"
+
+    },
+    {
+        "id":5,
+        "name":"Rolls Royce",
+        "country":"Germany",
+        "type":"luxrious Car"
+
+    },
+
+    {
+        "id":6,
+        "name":"BMW",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Passenger Car"
+
+    },
+    {
+        "id":7,
+        "name":"Bugati",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Passenger Car"
+
+    },
+
+    {
+        "id":8,
+        "name":"Hombit",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Trailer"
+    },
+    {
+        "id":9,
+        "name":"AMERICAN HONDA MOTOR",
+        "country":"UNITEDSTATES(USA)",
+        "type":"Low speed vehicle (LSV)"
+    }
+]
